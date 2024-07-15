@@ -1,7 +1,8 @@
 # Ping Pong Game
 
 This repository contains a JavaScript implementation of the classic Ping Pong game.
-![Ping Pong Gameplay](https://github.com/franklinsrr/ping-pong-js/assets/ezgif-7-e9992f2c76.gif)
+![Ping Pong Gameplay](https://github.com/franklinsrr/ping-pong-js/blob/develop/asset/ezgif-7-e9992f2c76.gif)
+
 ## Features
 
 * Smooth ball movement and collision detection
